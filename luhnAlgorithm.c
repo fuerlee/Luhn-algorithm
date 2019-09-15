@@ -1,6 +1,6 @@
   #include <stdlib.h> // atoi
   #include <string.h> // strlen
-  #include <stdbool.h> // boo
+  #include <stdbool.h> // bool
 
   bool checkLuhn(const char *pPurported)
   {
